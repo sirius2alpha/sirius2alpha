@@ -3,8 +3,7 @@
 Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/sirius2alpha/count.svg)](https://sirius2alpha.github.io) visitor, nice to meet you🎉🎉
 
 - 🔭 I’m currently studying at Shanghai University
-- 🌱 I’m currently learning JavaScript and Python
-- 💬 Ask me about anything you want, even though maybe I can't give an answer
+- 🌱 I’m currently learning Go and Redis
 - 📫 How to reach me: sirius1y@outlook.com
 
 
