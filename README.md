@@ -18,3 +18,5 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/sirius2a
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sirius2alpha&repo=sirius2alpha.github.io" />
 </a> -->
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sirius2alpha&theme=default)
+
