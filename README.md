@@ -6,6 +6,13 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/sirius2a
 - 🌱 I’m currently learning Go and Redis
 - 📫 How to reach me: sirius1y@outlook.com
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sirius2alpha&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sirius2alpha&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sirius2alpha&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sirius2alpha&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sirius2alpha&theme=transparent&utcOffset=8)
+
+
 
 [<span>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirius2alpha&layout=compact" height=145/>
@@ -14,14 +21,9 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/sirius2a
   <img src="https://github-readme-stats.vercel.app/api?username=sirius2alpha&count_private=true&show_icons=true" height=145/>
 </span>](https://sirius2alpha.github.io)
 
-<!-- <a href="https://github.com/sirius2alpha/sirius2alpha.github.io">
+<a href="https://github.com/sirius2alpha/sirius2alpha.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sirius2alpha&repo=sirius2alpha.github.io" />
-</a> -->
+</a>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sirius2alpha&theme=transparent)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sirius2alpha&theme=transparent)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sirius2alpha&theme=transparent)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sirius2alpha&theme=transparent&utcOffset=8)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sirius2alpha&theme=transparent)
 
 
