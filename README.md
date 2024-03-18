@@ -18,5 +18,9 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/sirius2a
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sirius2alpha&repo=sirius2alpha.github.io" />
 </a> -->
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sirius2alpha&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sirius2alpha&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sirius2alpha&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sirius2alpha&theme=transparent)3
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sirius2alpha&theme=transparent&utcOffset=8)
+
 
