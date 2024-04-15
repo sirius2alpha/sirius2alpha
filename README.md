@@ -7,7 +7,11 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/sirius2a
 - 📫 How to reach me: sirius1y@outlook.com
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sirius2alpha&theme=transparent)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sirius2alpha&theme=transparent)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sirius2alpha&theme=transparent)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sirius2alpha&theme=transparent)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sirius2alpha&theme=transparent&utcOffset=8)
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sirius2alpha&theme=transparent" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sirius2alpha&layout=compact&langs_count=8&card_width=320&theme=transparent&exclude_repo=DataStructure" />
+</a>
